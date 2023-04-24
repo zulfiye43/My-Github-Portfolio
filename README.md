@@ -10,6 +10,12 @@ For example, if a person has just 5 minutes to be active on the app, the person 
 <img src="https://user-images.githubusercontent.com/49038239/234120607-21d02eb3-45b3-4fbd-a0a3-2de7c0bfb82e.png" width="200"/>
 </p>
 
+**Tech Used**
+- 🎨 SwiftUI
+- 💿 Realm
+- 🗂️ MVVM
+- 📦 Swift Package Manager
+
 
 
 
