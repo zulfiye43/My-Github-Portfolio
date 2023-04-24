@@ -5,5 +5,6 @@ For example, if a person has just 5 minutes to be active on the app, the person 
 
 
 <p align="center">
-<img src="Recipely1.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/49038239/234120268-5b3b4a34-4b9d-4c5c-a6c8-e42fe423f9d9.png" width="200"/>
 </p>
+
