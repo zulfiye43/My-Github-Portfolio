@@ -40,8 +40,12 @@ The goal of the app was to provide users with an efficient and time-saving way t
 <img src="https://user-images.githubusercontent.com/49038239/234133742-241caabc-b3f0-41ac-adbe-0fb3728a46f3.png" width="200"/>
 </p>
 
-
-
+**Tech Used**
+- 🎨 SwiftUI
+- 🗺️ Apple Maps
+- 📦 Swift Package Manager
+- 📱 UserDefaults
+- ✅ SwiftLint
 
 
 
