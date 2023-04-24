@@ -30,6 +30,16 @@ TravSearch is an efficient and time-saving way to research a nice place for the 
 - 🔥 Firebase
 - 📦 Swift Package Manager
 
+## Icecreamshop App
+The goal of the app was to provide users with an efficient and time-saving way to enter ice cream parlors. In addition, the app should relieve the users from manually entering the entries on a notepad. With the help of the Icecreamshop app, the entries can always be retrieved. This means that users can enter the necessary information, such as the name, address and rating, into the app and have permanent access to the information of the rated ice cream parlors.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49038239/234133738-ced9cf65-433c-4d89-9c30-6a697c6a5cbc.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/49038239/234133741-2709d925-e684-46f6-8a5a-f934dd06e6ea.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/49038239/234133742-241caabc-b3f0-41ac-adbe-0fb3728a46f3.png" width="200"/>
+</p>
+
+
 
 
 
