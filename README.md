@@ -1,4 +1,4 @@
-## Recipely App
+## [Recipely App](https://github.com/zulfiye43/Recipely-App)
 Recipely app is perfectly designed for people who want to use their time efficiently without wasting so much time searching for the perfect recipe. 
 This is because the swipe function immediately gives the user the option to decide and save it permanently. 
 For example, if a person has just 5 minutes to be active on the app, the person has the chance to take a closer look at the recipe later by favoriting the respective recipes with just a right swipe.
@@ -15,7 +15,7 @@ For example, if a person has just 5 minutes to be active on the app, the person 
 - 💿 Realm
 - 📦 Swift Package Manager
 
-## TravSearch App
+## [TravSearch App](https://github.com/zulfiye43/TravSearch)
 TravSearch is an efficient and time-saving way to research a nice place for the planned trip. Moreover, the app should relieve users from the long research through various travel websites or blogs. Users also have the option to filter the search and save the post.
 
 <p align="center">
@@ -30,7 +30,7 @@ TravSearch is an efficient and time-saving way to research a nice place for the 
 - 🔥 Firebase
 - 📦 Swift Package Manager
 
-## Icecreamshop App
+## [Icecreamshop App](https://github.com/zulfiye43/Icecreamshop)
 The goal of the app was to provide users with an efficient and time-saving way to enter ice cream parlors. In addition, the app should relieve the users from manually entering the entries on a notepad. With the help of the Icecreamshop app, the entries can always be retrieved. This means that users can enter the necessary information, such as the name, address and rating, into the app and have permanent access to the information of the rated ice cream parlors.
 
 <p align="center">
@@ -48,7 +48,7 @@ The goal of the app was to provide users with an efficient and time-saving way t
 - ✅ SwiftLint
 
 
-## Restart App
+## [Restart App](https://github.com/zulfiye43/Restart-App)
 SwiftUI Design App.
 
 <p align="center">
