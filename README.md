@@ -61,4 +61,16 @@ SwiftUI Design App.
 - 🎨 SwiftUI
 
 
+## [Clima App](https://github.com/zulfiye43/TravSearch)
+Clima App is an dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.
+
+<p align="center">
+<img src="https://github.com/zulfiye43/My-Github-Portfolio/assets/49038239/7b205992-0570-405c-939b-7dc659e92355.png" width="200"/>
+</p>
+
+**Tech Used**
+- 🎨 SwiftUIKit
+- 🔥 REST-API
+- 📍 GPS 
+
 
