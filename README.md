@@ -73,7 +73,7 @@ Clima App is an dark-mode enabled weather app. You'll be able to check the weath
 - 🔥 REST-API
 - 📍 GPS 
 
-## [Dictionary App](https://github.com/zulfiye43/Clima-App)
+## [Dictionary App](https://github.com/zulfiye43/Dictionary-App)
 The dictionary app comprises a search text field and a search button. The user needs to input the word into the text field and click the search button. The result will show the word's meaning and provide word usage examples for relevant words.
 
 <p align="center">
