@@ -84,7 +84,7 @@ The dictionary app comprises a search text field and a search button. The user n
 - 🎨 HTML, CSS, JavaScript
 - 🔥 REST-API
 
-## [Todo App](https://github.com/zulfiye43/Dictionary-App)
+## [Todo App](https://github.com/zulfiye43/Dictionary-App](https://github.com/zulfiye43/TodoApp/tree/main)
 The todo app allows user to add and delete todos. The user can check the todo by cicking on it and it will turn green, when it is finished or red, when it is not finished yet.
 
 <p align="center">
