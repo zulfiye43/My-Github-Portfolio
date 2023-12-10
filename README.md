@@ -100,9 +100,8 @@ The todo app allows user to add and delete todos. The user can check the todo by
 The Weather App shows you the current weather data of any city.
 
 <p align="center">
-<img src="https://github.com/zulfiye43/My-Github-Portfolio/assets/49038239/40d32a59-7fdc-4e66-bfae-1532c9a2dce6.png" width="600"/>
+<img src="https://github.com/zulfiye43/My-Github-Portfolio/assets/49038239/edb16339-6cf8-4e6e-b35b-58d976a68ece.png" width="600"/>
 </p>
-
 
 **Tech Used**
 - 🎨 React
